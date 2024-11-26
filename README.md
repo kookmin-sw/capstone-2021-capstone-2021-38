@@ -1,77 +1,32 @@
-[![Work in Repl.it](https://classroom.github.com/assets/work-in-replit-14baed9a392b3a25080506f3b7b6d57f295ec2978f6f33ec97e36a161684cbe9.svg)](https://classroom.github.com/online_ide?assignment_repo_id=389687&assignment_repo_type=GroupAssignmentRepo)
-# Welcome to GitHub
+1. 프로젝트 소개
 
-캡스톤 팀 생성을 축하합니다.
+   한국에서는 택배 문의가 매우 불편한데, 택배가 SMS로 도착했는지 우체국에서 전화를 통해 도착했는지 알아야합니다. 이것은 우리를 고통스럽게    만듭니다. 이러한 상황을 개선하기 위해 물류 정보 / 위치 조회와 택배 발송을 통합 한 원 스톱 우편 물류 조회 웹 페이지를 개발하였습니다.
+2. Abstract
 
-## 팀소개 및 페이지를 꾸며주세요.
+   익스프레스 쿼리 :
+   이 기능은 택배의 현재 위치를 조회 할 수 있고지도에 사용자를 표시 할 수있어 사용자가보다 직관적으로 위치 정보를 볼 수 있도록합니다. 이    웹 페이지는 조회 번호와 택배사를 입력하여 질의의 정확성을 높이고, 택배 번호의 회사를보다 사용자 친화적 인 자동 식별 기능을 제공합니다.
+   택배로 보내기
+   이 웹 사이트는 택배 기능을 다루며 온라인으로 택배 예약을 할 수 있습니다. 서비스는 고도로 커스터마이징이 가능하며, 사용자는 택배의 배송    시간, 택배 회사, 포장 방법, 운송 방법을 선택할 수 있으며 사용자는 원 클릭 조작으로 자신의 배송 정보를 저장할 수도 있습니다. 사용자의      개인 정보 및 개인 정보는 개인 정보 유출을 방지하기 위해 MD5 암호화로 보호됩니다.
+3. 사용법
 
-- 프로젝트 소개
-  - 프로젝트 설치방법 및 데모, 사용방법, 프리뷰등을 readme.md에 작성.
-  - Api나 사용방법등 내용이 많을경우 wiki에 꾸미고 링크 추가.
+   우리 프로젝트는 python, django, CSS3, MySQL을 사용하여 완료하고 한국 우체국에서 공식적으로 제공하는 API 인터페이스를 통해 데이터        수집 을 실현합니다. 웹 페이지의 UI와 인터랙션은 CSS3로 만들고, django는 웹 프레임 워크로, 파이썬은 핵심 언어로 사용하며, 마지막으로      MySQL과   API와 결합하여 데이터의 저장과 호출을 실현하여 기능을 실현합니다. 웹 페이지의.
+4. 38팀
 
-- 팀페이지 꾸미기
-  - 프로젝트 소개 및 팀원 소개
-  - index.md 예시보고 수정.
-
-- GitHub Pages 리파지토리 Settings > Options > GitHub Pages 
-  - Source를 marster branch
-  - Theme Chooser에서 태마선택
-  - 수정후 팀페이지 확인하여 점검.
-
-**팀페이지 주소** -> https://kookmin-sw.github.io/ '{{자신의 리파지토리 아이디}}'
-
-**예시)** 2020년 0조  https://kookmin-sw.github.io/capstone-2020-0/
-
-
-## 내용에 아래와 같은 내용들을 추가하세요.
-
-### 1. 프로잭트 소개
-
-프로젝트
-
-### 2. 소개 영상
-
-프로젝트 소개하는 영상을 추가하세요
-
-### 3. 팀 소개
-
-팀을 소개하세요.
-
-팀원정보 및 담당이나 사진 및 SNS를 이용하여 소개하세요.
-
-### 4. 사용법
-
-소스코드제출시 설치법이나 사용법을 작성하세요.
-
-### 5. 기타
-
-추가적인 내용은 자유롭게 작성하세요.
-
-
-## Markdown을 사용하여 내용꾸미기
-
-Markdown은 작문을 스타일링하기위한 가볍고 사용하기 쉬운 구문입니다. 여기에는 다음을위한 규칙이 포함됩니다.
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-자세한 내용은 [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Support or Contact
-
-readme 파일 생성에 추가적인 도움이 필요하면 [도움말](https://help.github.com/articles/about-readmes/) 이나 [contact support](https://github.com/contact) 을 이용하세요.
+   유태성 (20181648)：
+    제품 관리자，프로그램 작성
+    
+   서정위 (20181626)：
+    알고리즘 프로그램
+    
+   사무엘 (20181623)：
+    프로그램
+    
+   김영욱 (20161900):
+    웹 프로그램
+    
+   주욱항 (20173591):
+    웹 페이지 레이아웃 디자인
+    
+   마광정 (20183531）:
+    UI디자인
+  
